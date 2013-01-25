@@ -1,0 +1,20 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-size: 100%; 
+}
+html {
+	  background-image: url('http://www.hannytech.com/wallpapers/walls/hot__cold-wide.jpg');
+}
+
+button {
+	height: 50px;
+	width: 150px;
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+	margin-top: 245px;
+	font-weight: bold;
+	color: #75759c;
+	font-size: 16px;
+}
